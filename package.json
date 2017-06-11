@@ -1,0 +1,17 @@
+{
+  "name": "react-native-leanplum",
+  "version": "0.1.0",
+  "description": "Integrate Leanplum into React Native for Android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "leanplum",
+    "analytics",
+    "marketing"
+  ],
+  "author": "Felix Clack",
+  "license": "ISC"
+}
